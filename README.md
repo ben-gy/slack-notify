@@ -1,3 +1,9 @@
+# Why did I fork this repo?
+
+The original gem is not currently being actively maintained. There was a required fix needed to prevent gem's dependices relying on an outdated version of faraday.
+
+---
+
 # slack-notify
 
 Send notifications to [Slack](http://slack.com/) via webhooks.
